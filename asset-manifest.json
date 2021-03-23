@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pomodoro-timer-with-react-hooks/static/css/main.41da173e.chunk.css",
+    "main.js": "/pomodoro-timer-with-react-hooks/static/js/main.cf962741.chunk.js",
+    "main.js.map": "/pomodoro-timer-with-react-hooks/static/js/main.cf962741.chunk.js.map",
+    "runtime-main.js": "/pomodoro-timer-with-react-hooks/static/js/runtime-main.935bad3f.js",
+    "runtime-main.js.map": "/pomodoro-timer-with-react-hooks/static/js/runtime-main.935bad3f.js.map",
+    "static/js/2.0714fcd9.chunk.js": "/pomodoro-timer-with-react-hooks/static/js/2.0714fcd9.chunk.js",
+    "static/js/2.0714fcd9.chunk.js.map": "/pomodoro-timer-with-react-hooks/static/js/2.0714fcd9.chunk.js.map",
+    "static/js/3.3b31a361.chunk.js": "/pomodoro-timer-with-react-hooks/static/js/3.3b31a361.chunk.js",
+    "static/js/3.3b31a361.chunk.js.map": "/pomodoro-timer-with-react-hooks/static/js/3.3b31a361.chunk.js.map",
+    "index.html": "/pomodoro-timer-with-react-hooks/index.html",
+    "static/css/main.41da173e.chunk.css.map": "/pomodoro-timer-with-react-hooks/static/css/main.41da173e.chunk.css.map",
+    "static/js/2.0714fcd9.chunk.js.LICENSE.txt": "/pomodoro-timer-with-react-hooks/static/js/2.0714fcd9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pomodoro-timer-with-react-hooks/static/media/work-icon.9c6b5f7f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.935bad3f.js",
+    "static/js/2.0714fcd9.chunk.js",
+    "static/css/main.41da173e.chunk.css",
+    "static/js/main.cf962741.chunk.js"
+  ]
+}
